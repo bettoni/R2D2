@@ -1,4 +1,5 @@
 [
+  "hubot-devopsreactions",	
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
